@@ -7,9 +7,7 @@ export interface User{
     phone:string,
     website:string,
     company:Company,
-
 }
-
 export interface Address{
     street:string,
     suite:string,

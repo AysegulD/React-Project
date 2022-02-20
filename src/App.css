@@ -10,7 +10,7 @@ html{
   text-align: center;
 }
 .header {
-  background-color: #c7af6e;
+  background-color: #bbc09a;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -18,6 +18,4 @@ html{
 .header div{
   padding: 3px;
 }
-.todosSection{
-  background-color: rgb(116, 94, 94);
-}
+
